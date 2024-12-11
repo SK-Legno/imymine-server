@@ -1,1 +1,3 @@
-# imymine-server
+# imymine-serverに接続するためのリポジトリです。
+接続先のIPアドレスは160.251.209.162です。
+必須ファイルについてはReleaseNoteを確認してください。
