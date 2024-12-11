@@ -99,7 +99,7 @@
     "Hotkeys": {
         "copy_item_id": {
             "main": {
-                "keys": "BUTTON_1"
+                "keys": []
             }
         }
     }
