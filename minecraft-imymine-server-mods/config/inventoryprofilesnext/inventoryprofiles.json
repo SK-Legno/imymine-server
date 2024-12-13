@@ -95,12 +95,5 @@
         "audio_replace_failed_notification": {
             "value": false
         }
-    },
-    "Hotkeys": {
-        "copy_item_id": {
-            "main": {
-                "keys": []
-            }
-        }
     }
 }
