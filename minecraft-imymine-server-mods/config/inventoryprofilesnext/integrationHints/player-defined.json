@@ -1,9 +1,0 @@
-{
-    "net.minecraft.client.gui.screens.inventory.CraftingScreen": {
-        "buttonHints": {
-            "SETTINGS": {
-                "top": -1
-            }
-        }
-    }
-}
